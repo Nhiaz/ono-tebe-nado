@@ -158,6 +158,7 @@
 
 .card-link {
     cursor: pointer;
+    text-decoration: none;
 }
 
 .card {
@@ -171,7 +172,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
+    
 }
 
 .card_type_film {
